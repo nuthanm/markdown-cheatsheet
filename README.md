@@ -29,10 +29,6 @@ To add strike effect then use either ~~ before and after the word.
 
 ## 4. Horizontal Rules
 To add horizontal rule then add --- after the current line
-
-**Example**
-
-__About Me__
 ---
 
 ## 5. Blockquote
