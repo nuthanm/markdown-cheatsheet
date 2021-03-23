@@ -38,3 +38,10 @@ To add blockquote then add > before your text
 
 > "If someone loves then always think about you" -- Its your Nani
 
+Here is additional reference learning links,
+
+**Free course:** https://scrimba.com/learn/markdownblog
+
+**Markdown Software download linnks**
+http://markdownpad.com/
+
