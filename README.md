@@ -105,6 +105,32 @@ To add email then use <> and text inside it.
 To reach out me : <inbox.nuthan@gmail.com>
 ---
 
+## 10. Extended Syntax - Tables
+Here is the another way to extend to more which we can add and support the way formatting the data. **Ex:** Tables.
+
+**Example**
+---
+We use ("|") pipe symbol to seperate the headings
+We use ":---" for **Left**, ":---:" for **center** and "---:" for **right** alignments
+
+| SNO | Employee Name | Department|
+| :---| :------------:| ---------:|
+| 1   | Nuthan        | IT - DEV  |
+| 2   | Potti         | IT - TEST |
+
+---
+
+## 10. Extended Syntax - Task Lists
+Here is the another way to extend adding task lists with checkbox.
+
+**Example**
+---
+I love 
+- [X] Travelling
+- [x]  Watching Movies in Theater
+- [ ] Playing Games
+---
+
 
 Here is additional reference learning links to be more clear about **Markdown**
 
@@ -118,9 +144,11 @@ Here is additional reference learning links to be more clear about **Markdown**
 
 **Official website**
 
-[Markdown Official Website](https://www.markdownguide.org/)
-[Basic Syntax](https://www.markdownguide.org/basic-syntax)
+[Markdown Official Website](https://www.markdownguide.org/) - 
+[Basic Syntax](https://www.markdownguide.org/basic-syntax) - 
 [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
+**Additional Resources**
 
-
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - 
+[Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
